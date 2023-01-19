@@ -18,7 +18,9 @@
 .code-text-area {
   resize: none;
   overflow-y: auto;
-  border: 2px solid black;
+  background: black;
+  color: white;
+  padding: 10px;
 }
 
 .code-common-btn {
